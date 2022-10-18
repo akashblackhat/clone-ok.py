@@ -1,0 +1,2 @@
+# clone-ok.py
+hack
