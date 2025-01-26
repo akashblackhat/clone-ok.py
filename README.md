@@ -11,5 +11,4 @@
      ls
      python2 clone-ok.py
 
-# my hacking grup
-  https://www.facebook.com/humanbeing1214
+
